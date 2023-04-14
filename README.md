@@ -1,7 +1,7 @@
 # Requests for SoCS Rep
 
 ## About
-This is a page for you to open a ticket for me (the School Rep) should you have any requests or questions. It's a busy time, and a time where I do get an overload of questions so this helps me to better track requests and ensure that I do not miss any DMs. The URL to this page is <[tinyurl.com/AskSoCSRep23]([url](https://tinyurl.com/AskSoCSRep23))> if you would like to share the page. 
+This is a page for you to open a ticket for me (the School Rep) should you have any requests or questions. It's a busy time, and a time where I do get an overload of questions so this helps me to better track requests and ensure that I do not miss any DMs. The URL to this page is [[here](https://tinyurl.com/AskSoCSRep23)](https://tinyurl.com/AskSoCSRep23) if you would like to share the page. 
 
 ## Procedure
 1. To open a new ticket, first go to the `Issues` page;
