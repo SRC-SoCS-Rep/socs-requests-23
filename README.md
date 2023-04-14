@@ -7,9 +7,9 @@ This is a page for you to open a ticket for me (the School Rep) should you have 
 1. To open a new ticket, first go to the `Issues` page;
 2. Check that the question/request you're about to make has not already been asked/made;
 3. Open a new issue with the following convensions
-   a. Title: <GEN/COURSE_NAME/EXAM> - <Brief Title> (eg. GEN - SoCS Online is down; TAD - AE Grades & Feedback Not Out; EXAM - 2022 Paper Not Available)
-   b. Body: Input your question/request; include screenshots if required;
-   c. Body: End with your Discord username *including the #XXXX* where XXXX are 4 digits (eg. @awn0110#4730) or Student Email
+   1. Title: <GEN/COURSE_NAME/EXAM> - <Brief Title> (eg. GEN - SoCS Online is down; TAD - AE Grades & Feedback Not Out; EXAM - 2022 Paper Not Available)
+   2. Body: Input your question/request; include screenshots if required;
+   3. Body: End with your Discord username *including the #XXXX* where XXXX are 4 digits (eg. @awn0110#4730) or Student Email
 4. I will respond as quickly as I can. The ideal is within 2 hours during waking hours.
 
 ## Guidelines
